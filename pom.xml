@@ -511,9 +511,9 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql://database-1.cf9ytneauzd7.ap-northeast-3.rds.amazonaws.com:3306/anji_petclinic?useUnicode=true</jdbc.url>
-                <jdbc.username>dev_petclinicuser</jdbc.username>
-                <jdbc.password>anji1996</jdbc.password>
+                <jdbc.url>jdbc:mysql://database-2.czgdmb2szkmc.ap-south-1.rds.amazonaws.com:3306/anji_petclinic?useUnicode=true</jdbc.url>
+                <jdbc.username>nani_petlinic</jdbc.username>
+                <jdbc.password>anji28257</jdbc.password>
             </properties>
             <dependencies>
                 <dependency>
